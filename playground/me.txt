@@ -1,0 +1,5 @@
+{{#user}}
+Name: Chittipriya
+Skills: HTML, CSS, JS, Java, C++, Python
+Email: chitti1890@gmail.com
+{{/user}}
